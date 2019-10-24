@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+body{
+    
+background: #c5deea; /* Old browsers */
+background: -moz-linear-gradient(top, #c5deea 0%, #8abbd7 55%, #066dab 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #c5deea 0%,#8abbd7 55%,#066dab 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #c5deea 0%,#8abbd7 55%,#066dab 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c5deea', endColorstr='#066dab',GradientType=0 ); /* IE6-9 */
+}
